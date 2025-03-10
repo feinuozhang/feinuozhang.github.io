@@ -16,4 +16,4 @@ social: false # includes social icons at the bottom of the page
 
 Hi! I am a fourth-year graduate student at [Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn), Fudan University. My advisor is [Professor Jun Li](https://scms.fudan.edu.cn/info/2661/2694.htm).
 
-My research interest lies in algebraic geometry. Currently, I focus on moduli spaces of sheaves and enumerative geometry.
+My research interests lie in algebraic geometry and related fields. Currently, I focus on moduli spaces of sheaves and enumerative geometry.
