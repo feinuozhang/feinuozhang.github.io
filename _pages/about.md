@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=L1stDZXWkoAzA6w67ondMxUX0QHLdto2yaTkDrfyBVc&cl=ffffff&w=a"></script>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
