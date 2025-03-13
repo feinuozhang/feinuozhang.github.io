@@ -108,7 +108,7 @@ work_url: # work page URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
-mapvisitors: <a href="https://mapmyvisitors.com/web/1bxp8"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=L1stDZXWkoAzA6w67ondMxUX0QHLdto2yaTkDrfyBVc&cl=ffffff" /></a>
+mapvisitors: 
 
 contact_note: >
 
