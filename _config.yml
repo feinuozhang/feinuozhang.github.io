@@ -109,7 +109,7 @@ x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: <a href='https://feinuozhang.github.io'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=n&d=L1stDZXWkoAzA6w67ondMxUX0QHLdto2yaTkDrfyBVc'/></a>
+# contact_note: <a href='https://feinuozhang.github.io'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=n&d=L1stDZXWkoAzA6w67ondMxUX0QHLdto2yaTkDrfyBVc'/></a>
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
