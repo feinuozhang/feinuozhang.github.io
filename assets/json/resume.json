@@ -22,6 +22,16 @@
       }
     ]
   },
+  "work": [
+    {
+      "name": "Max Planck Institute for Mathematics",
+      "position": "Postdoctoral researcher",
+      "location": "Bonn, Germany",
+      "url": "https://www.mpim-bonn.mpg.de",
+      "startDate": "2026.10",
+      "endDate": "present"
+    }
+  ],
   "education": [
     {
       "institution": "Shanghai Center for Mathematical Sciences, Fudan University",
