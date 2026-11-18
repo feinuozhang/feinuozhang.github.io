@@ -108,7 +108,8 @@ work_url: # work page URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
-contact_note: <a href='https://feinuozhang.github.io/publications/'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=n&d=lbMo6227jw6Oo8gaidO50mcAp6WSGPPo0wO3YZtns1A'/></a>
+contact_note: #
+
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
